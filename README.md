@@ -1,6 +1,4 @@
-# mvvm_pattern_app
-
-R, Flutter, Firebase, MySql을 연동한 심장질환 App
+# R, Flutter, Firebase, MySql을 연동한 심장질환 App
 
  - R 
    1. 심장질환 DataSet -> 설문조사 형태로 변환하여 사용자가 쉽게 접근가능 
