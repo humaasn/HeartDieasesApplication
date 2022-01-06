@@ -16,6 +16,6 @@
   
  ## 디자인 패턴 / 데이터 상태관리
   
-  디자인 패턴 : MVVM Pattern 사용 
-  데이터 상태관리 : TodoList, Message 형태로 관리 -> Provider로 변환 사용 (운동스케줄)
+  디자인 패턴  > MVVM Pattern  
+  데이터 상태관리 > TodoList, Message 형태로 관리 -> Provider로 변환 사용 (운동스케줄)
 
