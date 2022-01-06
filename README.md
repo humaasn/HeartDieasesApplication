@@ -1,6 +1,6 @@
-### R, Flutter, Firebase, MySql을 연동한 심장질환 App
+## R, Flutter, Firebase, MySql을 연동한 심장질환 App
 
- ## 핵심 개발환경
+ ### 핵심 개발환경
   - **R** 
     - 심장질환 DataSet -> 설문조사 형태로 변환하여 사용자가 쉽게 접근가능 
     - 심장질환 DataSet을 Machine-Learning(randomForest)을 이용하여 심장질환 발생 유무를 예측하여 Flutter에 접목 
