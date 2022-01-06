@@ -6,7 +6,6 @@
   1. 회원을 Firebase Email/password 사용하여 연동 관리 (구글 로그인 사용) 
  - MySQL
   1. 회원 운동스케줄 data를 DB에 저장
-  2. 
   디자인 패턴 : MVVM Pattern 사용 
   데이터 상태관리 : TodoList, Message 형태로 관리 -> Provider로 변환 사용 (운동스케줄)
 
