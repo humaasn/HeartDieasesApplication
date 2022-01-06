@@ -8,5 +8,6 @@
   1. 회원 운동스케줄 data를 DB에 저장
   
   디자인 패턴 : MVVM Pattern 사용 
+  
   데이터 상태관리 : TodoList, Message 형태로 관리 -> Provider로 변환 사용 (운동스케줄)
 
