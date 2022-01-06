@@ -1,4 +1,5 @@
-### R, Flutter, Firebase, MySql을 연동한 심장질환 App
+# R, Flutter, Firebase, MySql을 연동한 심장질환 App
+ - **현대사회의 다양한 질병 중, 심장질환을 예측하여 미리 예방을 하고자 심장질환 App 개발**
 
  ## 핵심 개발환경
   - **R** 
