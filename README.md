@@ -1,16 +1,17 @@
 # mvvm_pattern_app
 
-A new Flutter project.
+R, Flutter, Firebase, MySql을 연동한 심장질환 App
 
-## Getting Started
+ - R 
+   1. 심장질환 DataSet -> 설문조사 형태로 변환하여 사용자가 쉽게 접근가능 
+   2. 심장질환 DataSet을 Machine-Learning(randomForest)을 이용하여 심장질환 발생 유무를 예측하여 Flutter에 접목 
+  
+ - Firebase 
+   1. 회원을 Firebase Email/password 사용하여 연동 관리 (구글 로그인 사용) 
+ 
+ - MySQL
+   1. 회원 운동스케줄 data를 DB에 저장
+  
+  디자인 패턴 : MVVM Pattern 사용 
+  데이터 상태관리 : TodoList, Message 형태로 관리 -> Provider로 변환 사용 (운동스케줄)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
